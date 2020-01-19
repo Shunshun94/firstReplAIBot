@@ -1,0 +1,2 @@
+# firstReplAIBot
+はじめての Repl-AI
