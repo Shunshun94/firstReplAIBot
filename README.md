@@ -1,3 +1,6 @@
+Repl-AI service is disabled...；；
+So, this repository is archived too.
+
 # firstReplAIBot
 
 Easy to use [Repl-AI](https://repl-ai.jp/) powered by NTT DOCOMO, Inc. and Intermedia Planning, Inc.
